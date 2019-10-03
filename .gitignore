@@ -89,38 +89,9 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# IDE'S
+# IDE's
 .idea/
 .vscode/
-
-#########################
-# Latex generated files #
-#########################
-*.aux
-*.glo
-*.idx
-*.log
-*.toc
-*.ist
-*.acn
-*.acr
-*.alg
-*.bbl
-*.blg
-*.dvi
-*.glg
-*.gls
-*.ilg
-*.ind
-*.lof
-*.lot
-*.maf
-*.mtc
-*.mtc1
-*.out
-*.synctex.gz
-*.nav
-*.snm
 
 
 ##########################
@@ -130,6 +101,6 @@ ENV/
 *.pkl
 
 ################
-# Binary files # 
+# Binary files #
 ################
 *.bin
